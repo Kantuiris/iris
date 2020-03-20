@@ -1,11 +1,13 @@
+# class Dog:
+    #  def __init__(self, name ,age ,gender):
+        # self.name = name
+        # self.age = age
+        # self.gender = gender
 
+    #  def bark(self,tone):
+        # print(self.name + " is barking " + tone )
 
-a = [1,2,3,4,5]
-c = [0,2,4,6,8]
-b = 10
-if b in a:
-    print(b)
-elif b in c:
-    print(b in c)
-else:
-    print('Not in a and c')
+# dog1 = Dog('Isaac', 4 , 'male')
+# dog1.bark('loudly')
+# dog2 =Dog('Dorcus' , 5 , 'female')
+# dog2.bark('softly')
